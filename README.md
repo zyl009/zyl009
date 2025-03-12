@@ -8,7 +8,7 @@ I'm a **M.Sc.Geoinformatics Engineering** passionate about **GeoAI**.
 ---
 
 ### 🚀 Tech Stack
-![Python](https://img.shields.io/badge/Python-3.8-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange) ![PyTorch](https://img.shields.io/badge/PyTorch-red) ![QGIS](https://img.shields.io/badge/QGIS-green) 
+![Python](https://img.shields.io/badge/Python-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange) ![PyTorch](https://img.shields.io/badge/PyTorch-red) ![QGIS](https://img.shields.io/badge/QGIS-green) 
 
 ---
 
