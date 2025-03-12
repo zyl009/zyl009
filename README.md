@@ -19,6 +19,6 @@ I'm a **M.Sc.Geoinformatics Engineering** passionate about **GeoAI**.
 ---
 
 ### 📬 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/zhongyou-liang) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zhongyou-liang/) 
 
 🚀 _Let's collaborate on exciting projects in GeoAI and Earth observation!_
