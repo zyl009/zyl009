@@ -13,8 +13,8 @@ I'm a **M.Sc.Geoinformatics Engineering** passionate about **GeoAI**.
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyl009&show_icons=true&theme=radical&cache_seconds=3600)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyl009&layout=compact&theme=radical&cache_seconds=3600)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zyl009&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyl009&layout=compact&theme=radical)
 
 ---
 
